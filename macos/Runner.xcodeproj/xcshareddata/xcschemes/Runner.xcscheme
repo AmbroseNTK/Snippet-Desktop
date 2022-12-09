@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
-               BuildableName = "Snippet.app"
+               BuildableName = "Runner.app"
                BlueprintName = "Runner"
-               ReferencedContainer = "container:Snippet.xcodeproj">
+               ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -31,9 +31,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
-            BuildableName = "Snippet.app"
+            BuildableName = "Runner.app"
             BlueprintName = "Runner"
-            ReferencedContainer = "container:Snippet.xcodeproj">
+            ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -54,9 +54,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
-            BuildableName = "Snippet.app"
+            BuildableName = "Runner.app"
             BlueprintName = "Runner"
-            ReferencedContainer = "container:Snippet.xcodeproj">
+            ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
-            BuildableName = "Snippet.app"
+            BuildableName = "Runner.app"
             BlueprintName = "Runner"
-            ReferencedContainer = "container:Snippet.xcodeproj">
+            ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

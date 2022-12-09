@@ -176,7 +176,9 @@ class MyAppBodyState extends State<MyAppBody> {
                     Obx(() => selectedSnippet.value != null
                         ? SnippetEditor(
                             key: ValueKey(selectedSnippet.value?.id ?? "null"),
-                            darkMode: brightness == Brightness.dark,
+                            darkMode:
+                                MediaQuery.of(context).platformBrightness ==
+                                    Brightness.dark,
                             snippet: selectedSnippet.value,
                           )
                         : Center(

@@ -2,12 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/ambrose/Repos/itss/snippet/snippet_desktop/macos/Runner.xcodeproj">
+      location = "group:Snippet.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:Runner.xcodeproj">
    </FileRef>
 </Workspace>
